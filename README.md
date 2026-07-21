@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.gif" width="500" alt="banner" />
+</p>
+
 ### Hi, I'm lavochka 👋
 
 Low-level developer focused on **iOS internals** and **C/C++ systems programming**.

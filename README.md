@@ -41,7 +41,7 @@ Low-level developer focused on iOS internals and C/C++ systems programming. I li
   HTTP + real-time chat server in raw C++ over POSIX sockets. Auth, chat commands, dynamic message updates. No frameworks.
 </td>
 <td valign="top">
-  iOS Xray-core client with patches to xhttp session ID handling, TrollStore Network Extension entitlements, and provider configuration fallbacks. Rewritten upstream with iOS-specific fixes.
+  iOS Xray-core client with patches to xhttp session ID handling, TrollStore Network Extension entitlements, and provider configuration fallbacks. Rewritten upstream with iOS fixes.
 </td>
 </tr>
 </tbody>

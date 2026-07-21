@@ -9,13 +9,20 @@ I like the layer where Swift meets the runtime, and where sockets meet the kerne
 
 - **iOS**: Swift, Objective-C/C++, system APIs, reverse engineering, arm64e / TrollStore tooling
 - **Systems**: C/C++, POSIX, TCP/HTTP servers from scratch, no frameworks
+- **Networking**: Xray-core, Network Extension, VPN tunneling on iOS
 - **Backend / automation**: async Python, Telegram bots, Docker
 
 #### 📌 Featured projects
 
-- **[cpp-tcp-http-server](https://github.com/lavochkaa/tcp-cpp-server)** — HTTP + real-time chat server in raw C++ over POSIX sockets. No libraries.
-- **[ios-live-activities-reminders](https://github.com/lavochkaa/Notifications-)** — iOS reminder app with Live Activities, widgets, iCloud sync.
-- **[telegram-subscription-bot](https://github.com/lavochkaa/python-bot-vpn-api-system-)** — async Python bot: subscription management, payments, admin panel, Docker.
+- **[SystemExplorer](https://github.com/lavochkaa/SystemExplorer)** — read-only iOS system monitor for TrollStore. Processes, entitlements, Mach-O layout, IOKit registry. Low-level C/C++ + Swift/UIKit.
+- **[tcp-cpp-server](https://github.com/lavochkaa/tcp-cpp-server)** — HTTP + real-time chat server in raw C++ over POSIX sockets. No frameworks.
+- **[OneXray](https://github.com/lavochkaa/OneXray)** — iOS Xray-core client with patches to xhttp session ID handling, TrollStore Network Extension entitlements, and provider configuration fallbacks. Rewritten upstream with iOS-specific fixes.
+
+#### 🛠 Other work
+
+- **[Notifications](https://github.com/lavochkaa/Notifications)** — iOS reminder app with Live Activities, widgets, iCloud sync.
+- **[periodic-table-3d](https://github.com/lavochkaa/periodic-table-3d)** — cinematic 3D periodic table with morphing formations. Next.js + React Three Fiber + GLSL.
+- **[python-bot-vpn-api-system](https://github.com/lavochkaa/python-bot-vpn-api-system)** — async Python Telegram bot with subscription management, payments and admin panel.
 
 #### 💼 Currently
 

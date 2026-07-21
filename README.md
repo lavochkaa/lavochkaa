@@ -18,17 +18,15 @@ Low-level developer focused on iOS internals and C/C++ systems programming. I li
 <table align="center">
 <thead>
 <tr>
-<th width="260" align="center">
+<th width="280" align="center">
   <a href="https://github.com/lavochkaa/SystemExplorer">System Explorer</a><br/>
   <sub>Swift · C/C++ · UIKit</sub>
 </th>
-<th width="2"></th>
-<th width="260" align="center">
+<th width="280" align="center">
   <a href="https://github.com/lavochkaa/tcp-cpp-server">Tcp Server++</a><br/>
   <sub>C++ · POSIX</sub>
 </th>
-<th width="2"></th>
-<th width="260" align="center">
+<th width="280" align="center">
   <a href="https://github.com/lavochkaa/OneXray">OneXray</a><br/>
   <sub>Dart · Xray-core · iOS NE</sub>
 </th>
@@ -36,11 +34,19 @@ Low-level developer focused on iOS internals and C/C++ systems programming. I li
 </thead>
 <tbody>
 <tr>
-<td valign="top">Read-only iOS system monitor for TrollStore. Processes, entitlements, Mach-O layout, IOKit registry. Low-level C/C++ + Swift/UIKit.</td>
-<td>│</td>
-<td valign="top">HTTP + real-time chat server in raw C++ over POSIX sockets. Auth, chat commands, dynamic message updates. No frameworks.</td>
-<td>│</td>
-<td valign="top">iOS Xray-core client with patches to xhttp session ID handling, TrollStore Network Extension entitlements, and provider configuration fallbacks. Rewritten upstream with iOS-specific fixes.</td>
+<td valign="top">
+  Read-only iOS system monitor for TrollStore. Processes, entitlements, Mach-O layout, IOKit registry. Low-level C/C++ + Swift/UIKit.
+</td>
+<td valign="top">
+  HTTP + real-time chat server in raw C++ over POSIX sockets. Auth, chat commands, dynamic message updates. No frameworks.
+</td>
+<td valign="top">
+  iOS Xray-core client with patches to xhttp session ID handling, TrollStore Network Extension entitlements, and provider configuration fallbacks. Rewritten upstream with iOS-specific fixes.
+</td>
 </tr>
 </tbody>
 </table>
+
+<p align="center">
+  <a href="https://github.com/lavochkaa?tab=repositories">→ all repositories</a>
+</p>

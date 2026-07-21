@@ -10,6 +10,8 @@ Low-level developer focused on iOS internals and C/C++ systems programming. I li
 
 <p align="center">
   <a href="https://t.me/name_space1"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://twitter.com/name_space1"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://lavochkaa.github.io"><img src="https://img.shields.io/badge/-Blog-1B1B1E?style=for-the-badge&logo=jekyll&logoColor=white"></a>
   <a href="mailto:name.space.std@outlook.com"><img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 </p>
 

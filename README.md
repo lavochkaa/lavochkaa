@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" width="500" alt="banner" />
+  <img src="assets/banner.gif" alt="banner" />
 </p>
 
 ### Hi, I'm lavochka 👋

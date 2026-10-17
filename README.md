@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif"  alt="banner" />
+  <img src="assets/image.png"  alt="banner" />
 </p>
 
 <h1 align="center">Name Space</h1>

@@ -29,8 +29,8 @@ Low-level developer focused on iOS internals and C/C++ systems programming. I li
   <sub>C++ · POSIX</sub>
 </th>
 <th width="280" align="center">
-  <a href="https://github.com/lavochkaa/OneXray">OneXray</a><br/>
-  <sub>Dart · Xray-core · iOS NE</sub>
+  <a href="https://github.com/lavochkaa/githubGalaxy">GitHub Galaxy</a><br/>
+  <sub>JavaScript · WebGL · Python</sub>
 </th>
 </tr>
 </thead>
@@ -43,7 +43,7 @@ Low-level developer focused on iOS internals and C/C++ systems programming. I li
   HTTP + real-time chat server in raw C++ over POSIX sockets. Auth, chat commands, dynamic message updates. No frameworks.
 </td>
 <td valign="top">
-  iOS Xray-core client with patches to xhttp session ID handling, TrollStore Network Extension entitlements, and provider configuration fallbacks. Rewritten upstream with iOS fixes.
+  A GitHub account as a living 3D spiral galaxy: one arm per repository, commits as stars. Custom WebGL shaders, HDR bloom, auto-deployed to GitHub Pages. <a href="https://lavochkaa.github.io/githubGalaxy/">Live →</a>
 </td>
 </tr>
 </tbody>
